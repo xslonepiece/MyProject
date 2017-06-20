@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0728D13AA577C24C137FEFB6996E1FEADCDDA9A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9CC53D763A6FBAAD37D42A3CB5E573FDF141FCBD" : 9223372036854775807,
+    "0728D13AA577C24C137FEFB6996E1FEADCDDA9A0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "981E52C4-ED36-4CBE-B4C6-A27477EC813E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9CC53D763A6FBAAD37D42A3CB5E573FDF141FCBD" : "MyProject\/MyProject\/Utility\/",
+    "0728D13AA577C24C137FEFB6996E1FEADCDDA9A0" : "MyProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MyProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MyProject.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xslonepiece\/MyProject",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0728D13AA577C24C137FEFB6996E1FEADCDDA9A0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/xiasili\/Desktop\/work\/code\/Utility",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9CC53D763A6FBAAD37D42A3CB5E573FDF141FCBD"
+    }
+  ]
+}
