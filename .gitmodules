@@ -1,0 +1,3 @@
+[submodule "MyProject/Utility"]
+	path = MyProject/Utility
+	url = https://github.com/xslonepiece/Utility
